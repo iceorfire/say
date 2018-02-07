@@ -1,0 +1,38 @@
+sed
+vim
+grep
+emacs
+sort
+uniq
+comm
+passwd
+chmod
+chown
+make
+ps
+top
+kill
+cal
+ssh
+telnet
+rlogin
+ping
+history
+uname
+clear
+tty
+du
+w
+brew
+pip
+who
+who mom like
+who am i
+alias 给某个操作定义别名
+mail
+ftp
+touch
+xlock
+string
+nano
+
