@@ -35,4 +35,5 @@ touch
 xlock
 string
 nano
-
+test
+man
