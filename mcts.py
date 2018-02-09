@@ -364,7 +364,7 @@ def UCTPlayGame():
     """ Play a sample game between two UCT players where each player gets a different number 
         of UCT iterations (= simulations = tree nodes).
     """
-    # state = OthelloState(4) # uncomment to play Othello on a square board of the given size
+    #state = OthelloState(4) # uncomment to play Othello on a square board of the given size
     # state = OXOState() # uncomment to play OXO
     state = NimState(15) # uncomment to play Nim with the given number of starting chips
     while (state.GetMoves() != []):
