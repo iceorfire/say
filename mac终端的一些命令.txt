@@ -37,3 +37,6 @@ string
 nano
 test
 man
+time
+date
+cal
