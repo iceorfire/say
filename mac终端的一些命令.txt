@@ -40,3 +40,12 @@ man
 time
 date
 cal
+
+git
+git --version
+java
+java -version
+python
+python - version
+conda
+
