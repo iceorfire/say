@@ -1,5 +1,8 @@
-sed
+ls
+cd
+cat
 vim
+sed
 grep
 emacs
 sort
@@ -49,3 +52,14 @@ python
 python - version
 conda
 
+zsh
+sleep
+rmdir
+stty
+link
+unlike
+pax
+mkdir
+sync
+rcp
+sh
