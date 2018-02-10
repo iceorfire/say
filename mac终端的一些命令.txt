@@ -3,6 +3,7 @@ ls
 cd
 cat
 vim
+tab			这个不能适用，但是经常需要补全命令
 sed
 wc
 env
