@@ -7,6 +7,7 @@ tab			这个不能适用，但是经常需要补全命令
 sed
 wc
 env
+sw_vers
 say
 grep
 sleep
