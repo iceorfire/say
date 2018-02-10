@@ -3,19 +3,34 @@ cd
 cat
 vim
 sed
+wc
+env
+say
 grep
 emacs
 sort
+shutdown
 uniq
 comm
+less
+akw
 passwd
 chmod
+more
+umask
 echo
 echo $PATH
 pwd
+su
+sudo
 chown
+paste
 make
 ps
+head
+tail
+diff
+diskutil
 top
 kill
 cal
@@ -36,13 +51,17 @@ who mom like
 who am i
 alias 给某个操作定义别名
 mail
+write
 ftp
 touch
+nice
+renice
 xlock
 string
 nano
 test
 man
+mesg
 time
 date
 cal
@@ -61,6 +80,7 @@ rmdir
 stty
 link
 unlike
+nl
 pax
 mkdir
 sync
