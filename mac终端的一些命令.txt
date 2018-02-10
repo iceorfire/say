@@ -1,3 +1,4 @@
+常用命令 按常用程度排序
 ls
 cd
 cat
@@ -7,13 +8,16 @@ wc
 env
 say
 grep
+sleep
 emacs
 sort
 shutdown
+mkdir
+diff
 uniq
 comm
 less
-akw
+awk
 passwd
 chmod
 more
@@ -29,7 +33,6 @@ make
 ps
 head
 tail
-diff
 diskutil
 top
 kill
@@ -56,7 +59,6 @@ ftp
 touch
 nice
 renice
-xlock
 string
 nano
 test
@@ -73,16 +75,17 @@ java -version
 python
 python - version
 conda
+g++
+gcc
 
 zsh
-sleep
 rmdir
 stty
 link
 unlike
 nl
 pax
-mkdir
 sync
 rcp
 sh
+bash
