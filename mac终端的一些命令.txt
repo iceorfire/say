@@ -42,6 +42,7 @@ top
 kill
 cal
 ssh
+dirs
 telnet
 rlogin
 ping
