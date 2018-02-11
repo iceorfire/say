@@ -81,6 +81,9 @@ time
 date
 cal
 last
+chroot
+killall
+pkill
 
 git
 git --version
