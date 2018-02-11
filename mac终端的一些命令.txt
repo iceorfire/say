@@ -57,6 +57,7 @@ pip
 who
 who mom like
 who am i
+nohup
 alias 给某个操作定义别名
 mail
 write
@@ -79,6 +80,7 @@ mesg
 time
 date
 cal
+last
 
 git
 git --version
