@@ -108,3 +108,8 @@ memcmp
 memmove
 memcpy
 memset
+
+字符串函数
+strcat
+
+基本上c的库函数，好多可以在终端上面使用，所以基本不想更新此列表了啊。QAQ
