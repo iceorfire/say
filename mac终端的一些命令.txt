@@ -60,6 +60,8 @@ write
 stack
 queue
 socket
+read
+open
 ftp
 touch
 nice
