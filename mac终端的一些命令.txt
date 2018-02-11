@@ -16,6 +16,8 @@ sort
 shutdown
 mkdir
 diff
+wget
+curl
 uniq
 comm
 less
