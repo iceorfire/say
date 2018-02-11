@@ -103,3 +103,8 @@ bash
 下面添加一些bsd的内核函数
 ffs	
 memchr
+strstr
+memcmp
+memmove
+memcpy
+memset
