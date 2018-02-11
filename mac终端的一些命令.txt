@@ -63,6 +63,7 @@ socket
 read
 open
 set
+close
 ftp
 touch
 nice
