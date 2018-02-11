@@ -59,6 +59,7 @@ mail
 write
 stack
 queue
+socket
 ftp
 touch
 nice
