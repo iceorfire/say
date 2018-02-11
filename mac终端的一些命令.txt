@@ -58,6 +58,7 @@ alias 给某个操作定义别名
 mail
 write
 stack
+queue
 ftp
 touch
 nice
