@@ -84,7 +84,10 @@ last
 chroot
 killall
 pkill
-
+pgrep
+ipcs
+info
+ 
 git
 git --version
 java
