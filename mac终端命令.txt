@@ -1,7 +1,7 @@
 常用命令 按常用程度排序
-ls
-cd
-cat
+ls			列出列表
+cd			切换到指定目录
+cat			显示内容
 vim
 tab			这个不能适用，但是经常需要补全命令
 sed
@@ -87,6 +87,7 @@ pkill
 pgrep
 ipcs
 info
+>
 
  
 git
