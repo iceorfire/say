@@ -9,10 +9,10 @@ wc			这个用来统计
 env			这个是环境变量
 sw_vers
 say			这个是mac独有的，可以用来朗读一些东西
-grep
-sleep
-emacs
-sort
+grep		文本操作
+sleep		睡眠一段时间
+emacs		文本编辑器
+sort		排序
 shutdown
 mkdir
 diff
