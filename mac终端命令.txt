@@ -13,10 +13,10 @@ grep		文本操作
 sleep		睡眠一段时间
 emacs		文本编辑器
 sort		排序
-shutdown
-mkdir
-diff
-wget
+shutdown	关机
+mkdir		创建一个目录
+diff		比较两个文件的异同
+wget		下载一个东西
 curl
 uniq
 comm
