@@ -87,6 +87,7 @@ pkill
 pgrep
 ipcs
 info
+uptime
 >
 
  
